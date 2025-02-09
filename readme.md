@@ -21,7 +21,7 @@ Task-/
 │
 ├── backend/          # Python backend (Django/Flask)
 │   ├── requirements.txt  # Backend dependencies
-│   ├── app.py / manage.py # Main backend entry point
+│   ├── app.py  # Main backend entry point
 │   └── models.py      # Database models
 │
 └── .venv/            # Virtual environment
